@@ -1,6 +1,10 @@
-# nix-devenv
+<div align=center>
+
+# devenvs.nix
 
 Minimal, portable, self-contained development environment flakes for Nix and NixOS.
+
+</div>
 
 ## Usage
 
